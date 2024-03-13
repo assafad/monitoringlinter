@@ -8,7 +8,7 @@ The use of [Prometheus registration methods](https://pkg.go.dev/github.com/prome
 ## Installation
 
 ```shell
-go install github.com/kubevirt/monitoring/monitoringlinter/cmd/monitoringlinter@latest
+go install github.com/assafad/monitoringlinter/cmd/monitoringlinter@latest
 ```
 
 ## Usage
