@@ -19,7 +19,7 @@ func NewAnalyzer() *analysis.Analyzer {
 	return &analysis.Analyzer{
 		Name: "monitoringlinter",
 		Doc: "Ensures that in Kubernetes operators projects, monitoring related practices are implemented " +
-			"within pkg/monitoring directory, using operator-observability packages.",
+			"within pkg/monitoring directory, using operator-observability packages, and blabla.",
 		Run: run,
 	}
 }
